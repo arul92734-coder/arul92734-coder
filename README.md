@@ -39,7 +39,6 @@ I'm interested in exploring Data Science, Artificial Intelligence, Web Developme
 
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/arulshakthic08/)
 - Portfolio: [Visit My Portfolio](https://arul-portfolio-08.vercel.app/)
-- MES Convent Website: [Visit Live Website](https://mesconventtvk.com/)
 - Email: [arul92734@gmail.com](mailto:arul92734@gmail.com)
 ---
 
