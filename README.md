@@ -35,11 +35,12 @@ I'm interested in exploring Data Science, Artificial Intelligence, Web Developme
 
 ### 🌐 Connect With Me
 
-- **LinkedIn:** [Arul Shakthi C](https://www.linkedin.com/in/arulshakthic08/)
-- **Portfolio:** [Visit My Portfolio](https://arul-shakthi-portfolio.vercel.app/)
-- **Email:** [arul92734@gmail.com](mailto:arul92734@gmail.com)
-- **GitHub:** [arul92734-coder](https://github.com/arul92734-coder)
+### 🌐 Connect With Me
 
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/arulshakthic08/)
+- Portfolio: [Visit My Portfolio](https://arul-portfolio-08.vercel.app/)
+- MES Convent Website: [Visit Live Website](https://mesconventtvk.com/)
+- Email: [arul92734@gmail.com](mailto:arul92734@gmail.com)
 ---
 
 ⭐ Thanks for visiting my profile!
