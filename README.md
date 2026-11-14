@@ -33,7 +33,7 @@ I'm interested in exploring Data Science, Artificial Intelligence, Web Developme
 
 - **Placement Training LMS** – Placement preparation learning platform developed as part of CYPHER 4.0 Hackathon.
   
-- **[Pennywise Expense Tracker-Website](https://pennywise-expense-tracker-nine.vercel.app)** - A responsive personal finance dashboard used to track income, expenses, budgets, savings goals, and financial analytics. 
+- **[Pennywise Expense Tracker-Website](https://pennywise-expense-tracker-nine.vercel.app)** - A responsive personal finance dashboard used to track income, expenses, budgets, savings goals, and financial analytics.
 
 ### 🌐 Connect With Me
 
